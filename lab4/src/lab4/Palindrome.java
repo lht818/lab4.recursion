@@ -1,3 +1,6 @@
+/*Name: Peter Tran
+* date: 09/26/2017
+*/
 package lab4;
 import java.util.Scanner;
 
